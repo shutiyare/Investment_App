@@ -1,0 +1,50 @@
+
+.navbar {
+    background: var(--navbar-background);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: var(--navbar-height);
+    z-index: 1;
+}
+
+.navbar * {
+    color: white;
+}
+
+.logo a {
+    color: white;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+
+.logo a:hover {
+    color: violet;
+}
+
+.user {
+    margin-right: 1rem;
+    width: fit-content;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.username{
+    font-weight: bold;
+    color: tomato;
+}
+.user * {
+    margin-left: 1rem;
+}
+
+.user img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px dashed tomato;
+    padding: 1px;
+}
+
+.user button span:hover {
+    color: violet;
+}

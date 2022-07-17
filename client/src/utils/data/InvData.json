@@ -1,0 +1,38 @@
+[
+    {
+        "cust_name": "Abdullatif ali tahlil",
+        "account_no":"12345",
+        "phone_no":"615254748",
+        "inv_amount":"123456",
+        "inv_date":"2022-01-23",
+        "inv_attachment": "12345.pdf",
+        "key":1
+    },
+    {
+        "cust_name": "Shubka fatah gelle",
+        "account_no":"12346",
+        "phone_no":"826534262",
+        "inv_amount":"67543",
+        "inv_date":"2021-08-09",
+        "inv_attachment": "12346.pdf",
+        "key":2
+    },
+    {
+        "cust_name": "Seynab Cilmi Dheere",
+        "account_no":"12347",
+        "phone_no":"123908764",
+        "inv_amount":"2603942",
+        "inv_date":"2021-11-27",
+        "inv_attachment": "12347.pdf",
+        "key":3
+    },
+    {
+        "cust_name": "Hooyo Cubtan Cabdi",
+        "account_no":"12348",
+        "phone_no":"89876543",
+        "inv_amount":"892093",
+        "inv_date":"2022-02-11",
+        "inv_attachment": "12348.pdf",
+        "key":4
+    }
+]

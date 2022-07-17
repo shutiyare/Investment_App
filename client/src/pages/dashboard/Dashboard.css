@@ -1,0 +1,22 @@
+.dashboard{
+    margin: 2rem;
+    /* max-width: 90%; */
+    /* overflow: auto; */
+}
+.client-stats{
+    display: flex;
+    justify-content: center;
+    gap: 10vw;
+    margin: 2rem;
+}
+.client-charts{
+    margin: 2rem auto;
+    padding: 3rem;
+    background: #fff;
+    /* max-width: 90%; */
+}
+.client-charts h2{margin-bottom: 4rem; background: rgb(241, 239, 214); line-height: 3rem;}
+.chart{width: inherit;}
+.card{
+min-width: 30%;
+}

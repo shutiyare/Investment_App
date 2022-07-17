@@ -1,0 +1,23 @@
+.query{
+    margin: 3rem auto;
+}
+.params{
+    /* display: grid;
+    grid-template-columns: 1fr 3fr; */
+    width: calc(200px + 10%);
+    margin: 2rem auto;
+}
+.error{
+    margin-top: 1.5rem;
+    color: red;
+}
+.result{
+    background: rgb(247, 246, 246);
+}
+.result h3{
+    color: #000;
+    margin: 2rem;
+}
+.pdf{
+    height: 100vh;
+}
